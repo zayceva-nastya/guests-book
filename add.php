@@ -8,4 +8,4 @@ $result = $mysqli->query(
 
 $mysqli->close();
 
-header('location: db.php');
+header('location: index.php');
